@@ -3,7 +3,7 @@
 > A Machine Learning-based web application that classifies news articles as **Fake** or **Real** using **TF-IDF Vectorization**, **Logistic Regression**, and **Streamlit**.
 
 <p align="center">
-  <img width="1224" height="603" alt="image" src="https://github.com/user-attachments/assets/dcb797a3-a6e2-49d8-98f7-4a2ae1d5964a" />
+  <img width="1100" height="573" alt="image" src="https://github.com/user-attachments/assets/a9019fa0-ae7e-49c3-b10d-f1dacbbd75c5" />
 
 
 </p>
@@ -48,10 +48,20 @@ The model is trained using two publicly available datasets.
 ### 📸 Dataset Overview
 
 <p align="center">
-<img width="580" height="373" alt="{691CE529-1871-4B9D-8150-E861643195EE}" src="https://github.com/user-attachments/assets/784277aa-a0f9-44ea-9f1a-b7eef0d9d2e6" />
+<img width="652" height="415" alt="image" src="https://github.com/user-attachments/assets/25003395-09d7-439a-8fc8-0c54f6e55586" />
+
 
 
 </p>
+<p align="center">
+<img width="751" height="413" alt="image" src="https://github.com/user-attachments/assets/75a510da-54fb-4f40-9b72-8de1d46c5c58" />
+
+
+
+
+
+</p>
+
 
 ---
 
@@ -108,7 +118,8 @@ Streamlit Web Application
 ### 📸 Model Performance
 
 <p align="center">
-<img width="772" height="348" alt="{5055D99C-90FF-4E8E-A12E-6AA844764749}" src="https://github.com/user-attachments/assets/2d4bf476-44dd-42f3-80fb-817b69c586fb" />
+<img width="770" height="340" alt="image" src="https://github.com/user-attachments/assets/604ffc52-85ae-4c69-907b-339db41df7e5" />
+
 
 </p>
 
@@ -121,7 +132,10 @@ Streamlit Web Application
 The screenshot below demonstrates the model successfully identifying a genuine news article.
 
 <p align="center">
-  <img width="1032" height="610" alt="image" src="https://github.com/user-attachments/assets/6c326db0-31ef-47b7-bfff-cd453a601699" />
+ 
+<img width="1030" height="608" alt="image" src="https://github.com/user-attachments/assets/8f3c89ef-1e40-41e8-9290-59d29c936fc5" />
+
+
 
 </p>
 
@@ -132,7 +146,10 @@ The screenshot below demonstrates the model successfully identifying a genuine n
 The screenshot below demonstrates the model successfully identifying a fake news article.
 
 <p align="center">
-  <img width="1048" height="604" alt="image" src="https://github.com/user-attachments/assets/00d87ea5-7df4-456c-bd8d-298d99829948" />
+ 
+<img width="1118" height="610" alt="image" src="https://github.com/user-attachments/assets/06f7bdc9-f895-4238-af3c-7a76f7d6a558" />
+
+
 
 </p>
 
