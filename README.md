@@ -48,7 +48,8 @@ The model is trained using two publicly available datasets.
 ### 📸 Dataset Overview
 
 <p align="center">
-<img width="652" height="415" alt="image" src="https://github.com/user-attachments/assets/25003395-09d7-439a-8fc8-0c54f6e55586" />
+<img width="654" height="430" alt="image" src="https://github.com/user-attachments/assets/c1ba5acc-97e6-4390-b2d0-741c971a7823" />
+
 
 
 
